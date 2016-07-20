@@ -3,7 +3,7 @@ title: Much A-Do About To-Do
 layout: default
 modal-id: 1
 date: 2016-07-01
-img: cabin.png
+img: HomeScreen_addingAList.png
 alt: image-alt
 project-date: July 2016
 client: Start Bootstrap
